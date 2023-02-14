@@ -22,7 +22,10 @@
 
     git commit
 
+Чтобы взять индекс и применить его к последнему коммиту ввести команду
+
     git commit -a
+
     git commit -m "message"
     git log
     git log --oneline
