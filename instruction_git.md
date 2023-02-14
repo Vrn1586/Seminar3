@@ -30,7 +30,10 @@
     
     git commit -m "message"
     
+Для того чтобы посмотреть историю коммитов ввести команду
+
     git log
+    
     git log --oneline
     git log --all
     git log --all --oneline
