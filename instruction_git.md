@@ -26,7 +26,10 @@
 
     git commit -a
 
+Чтобы сделать для проекта снимок текущего состояния изменений ввести команду
+    
     git commit -m "message"
+    
     git log
     git log --oneline
     git log --all
